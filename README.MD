@@ -294,3 +294,9 @@ This script is licensed under the [MIT License](./LICENSE). Feel free to use, mo
 </p>
 
 <p>&nbsp;<br/>&nbsp;</p>
+
+---
+
+## Contributors
+
+@jorcelinojunior, [@mathmul](https://gist.github.com/jorcelinojunior/131748e12a039c02148a6f66e1fb312c?permalink_comment_id=5291658#gistcomment-5291658)
